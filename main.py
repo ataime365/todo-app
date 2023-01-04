@@ -6,6 +6,7 @@ date = datetime.today()
 # time = date.strftime('%H:%M:%S')
 # print(f'It is {month} {day}, {year} {time}')
 today_date_time = date.strftime("%b %d, %Y %H:%M:%S")
+print("Add it is time")
 print(f'It is {today_date_time}')
 
 
